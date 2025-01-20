@@ -22,9 +22,9 @@ const About = () => {
                     I embarked my journey as a MCA Computer Application & Engineering student at KIET Group Of Institutions. Along the way, I fearlessly explored various fields, including Graphic Designing, Content Creation, Freelancing, and Entrepreneurship. I delved into the world of cutting-edge technologies, such as Python, Cloud computing, React, Flutter, and Firebase. I also took my passion for technology and leadership to new heights by co-establishing Google Developer Student Clubs and the E-Cell in my college, alongside my equally enthusiastic classmates. At present, I serve GDSC KIET as the Co-Lead and holds the significant responsibility of being the In-Charge of .
                 </p>
                 <br />
-                <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
+                {/* <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
                     In a constant pursuit of sharing knowledge and fostering growth, I've organized numerous technical workshops, imparting valuable insights on technologies like Python, Android, and Google Cloud to aspiring learners. With a commitment to personal development and a drive for making a positive impact within the tech community.
-                </p>
+                </p> */}
                 {/* <br />
                 <p data-aos="fade-in" data-aos-duration="500" className='text-xl mt-5 ease-in  fade-in'>
                     I've worked for many projects for my clients as well as my personal projects. I also contributed for the GDSC RKMGEC web page. I have a Instagram page (@codewithbiki) where I create content for those who are just starting with programming and have more that 70k followers. I have learning attitude and growth mindset which helps me to collaborate with people and work for the society.
