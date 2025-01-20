@@ -30,13 +30,25 @@ const About = () => {
           student at KIET Group Of Institutions. Along the way, I fearlessly
           explored various fields, including Graphic Designing, Content
           Creation, Freelancing, and Entrepreneurship. I delved into the world
+          of cutting-edge technologies, such as Java, DBMS, React,
+          MySQL. 
+        </p>
+        {/* <p
+          data-aos="slide-up"
+          data-aos-duration="500"
+          className="text-xl mt-5 ease-in fade-in"
+        >
+          I embarked my journey as a MCA Computer Application & Engineering
+          student at KIET Group Of Institutions. Along the way, I fearlessly
+          explored various fields, including Graphic Designing, Content
+          Creation, Freelancing, and Entrepreneurship. I delved into the world
           of cutting-edge technologies, such as Python, Cloud computing, React,
           Flutter, and Firebase. I also took my passion for technology and
           leadership to new heights by co-establishing Google Developer Student
           Clubs and the E-Cell in my college, alongside my equally enthusiastic
           classmates. At present, I serve GDSC KIET as the Co-Lead and holds the
           significant responsibility of being the In-Charge of .
-        </p>
+        </p> */}
         <br />
         <p
           data-aos="slide-up"
